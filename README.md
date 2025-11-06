@@ -33,7 +33,8 @@ Fraud detection models with >95% accuracy on test data
 Confusion matrices and ROC curves visualized
 Insights into patterns of fraudulent transactions
 
-##🧩 Key Learnings
+## 🧩 Key Learnings
 Built end-to-end ML pipeline: data cleaning → model training → evaluation
 Learned feature engineering techniques for fraud detection
 Improved understanding of evaluation metrics for imbalanced datasets
+
